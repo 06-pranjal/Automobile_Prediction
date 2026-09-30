@@ -129,5 +129,3 @@ This project can be useful for:
 👩‍💻 Author
 
 Pranjal Tavhare
-
-This project was developed as a Machine Learning project to understand data preprocessing, visualization, regression algorithms, model evaluation, and prediction.
